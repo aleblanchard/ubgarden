@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+bin/
+out/
+submission.zip
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Système
+.DS_Store
+Thumbs.db
